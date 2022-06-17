@@ -25,7 +25,7 @@ def calculate_frequency(row):
     return freq_dict
 
 
-with open ('/home/fazza/Documents/tln-2022-third-part-lab/def.csv', 'r') as f:
+with open ('def.csv', 'r') as f:
     for row in f:
         dict = calculate_frequency(row)
         k = Counter(dict)
