@@ -6,7 +6,7 @@ Acqua alla gola
 Acqua alle funi
 Acqua in bocca
 Ad usum fabricae
-Affogare in un bicchier d'acqua
+Affogare in un bicchier d acqua
 Ai tempi che Berta filava
 Al secolo
 Alla romana
@@ -29,7 +29,7 @@ Boiardo di Stato
 Caccia alle streghe
 Canta che ti passa
 Canto del cigno
-Capire l'antifona
+Capire l antifona
 Capro espiatorio
 Carne da cannone
 Carretta del mare
@@ -47,7 +47,7 @@ Correre la cavallina
 Corsa agli armamenti
 Cortina di ferro
 Culo e camicia
-Darsi all'ippica
+Darsi all ippica
 Decapitazione del vertice
 Deformazione professionale
 Di punto in bianco
@@ -55,7 +55,7 @@ Discutere del sesso degli angeli
 Dopo di noi, il diluvio
 E pur si muove!
 È un altro paio di maniche
-Ecco fatto il becco all'oca, e le corna al Podestà
+Ecco fatto il becco all oca, e le corna al Podestà
 Editto bulgaro
 Eminenza grigia
 Eroi della sesta giornata
@@ -65,14 +65,14 @@ Essere come la moglie di Cesare
 Essere nella fossa dei leoni
 Essere o non essere
 Estate di San Martino
-Età dell'oro
+Età dell oro
 Far di conto
 Fare cappotto
-Fare di tutta l'erba un fascio
+Fare di tutta l erba un fascio
 Fare il portoghese
 Fare la scarpetta
 Fare San Martino
-Fare un buco nell'acqua
+Fare un buco nell acqua
 Foglia di fico
 Franco tiratore
 Furbetti del quartierino
@@ -85,7 +85,7 @@ Idem con patate
 Il comandante affonda con la nave
 Il gioco non vale la candela
 In bocca al lupo
-Isola che non c'è
+Isola che non c è
 Italiano medio
 La sventurata rispose
 Lacrime di coccodrillo
@@ -95,7 +95,7 @@ Lotta senza quartiere
 Ma con gran pena le reca giù
 Macelleria messicana
 Mangiare pane e veleno
-Menare il can per l'aia
+Menare il can per l aia
 Metodo Boffo
 Milano da bere
 Mosca bianca 
@@ -103,7 +103,7 @@ Muro della vergogna
 Nave a perdere
 Nave dei veleni
 Non ragioniam di lor, ma guarda e passa
-Non si interrompe un'emozione
+Non si interrompe un emozione
 Nuovi ricchi
 Occhio per occhio 
 Ogni morte di papa
@@ -114,7 +114,7 @@ Pateravegloria
 Pecora nera
 Per un punto Martin perse la cappa
 Perdere la trebisonda
-Pesce fuor d'acqua
+Pesce fuor d acqua
 Piantare baracca e burattini
 Piantare in asso
 Piedino 
@@ -133,7 +133,7 @@ Processo farsa
 Processo mediatico
 Quadratura del cerchio
 Questione bizantina
-Ragazzi del '99
+Ragazzi del  99
 Regola del pollice
 Rendere pan per focaccia
 Riflusso nel privato
@@ -150,14 +150,14 @@ Situazione kafkiana
 Soglio pontificio
 Spada di Damocle
 Spezzeremo le reni
-L'ultima spiaggia 
+L ultima spiaggia 
 Spirale bellica
 Tal dei tali
 Tallone di Achille
 Tanto peggio per i fatti
 Tirapiedi
 Tizio, Caio e Sempronio
-Troppa grazia, sant'Antonio!
+Troppa grazia, sant Antonio!
 Tutto il mondo è paese
 Uovo di Colombo
 Vacche grasse
@@ -184,8 +184,8 @@ A cazzo di cane
 Accendere una candela al diavolo e una alla Madonna
 A chiare lettere
 A chi tocca?
-A chi tocca non s'ingrugna
-A colpo d'occhio
+A chi tocca non s ingrugna
+A colpo d occhio
 A colpo sicuro
 A corpo morto
 Acqua chetaAcqua e sapone
@@ -198,10 +198,10 @@ Addio ai montiA Dio piacendo
 A dirotto
 Ad ogni morte di Papa
 Ad usum DelphiniA doppio taglio
-Affari di Maria Cazzetta (Gli)
+Affari di Maria Cazzetta  Gli  
 Affé di Bacco
 Affidare le pecore al lupo
-A fior d'acqua
+A fior d acqua
 A fior di pelle
 Affilare le armi
 A fondo perduto
@@ -211,10 +211,10 @@ Agli sgoccioli
 A gogò
 A guisa di barone
 A iosa
-Ai posteri l'ardua sentenza
+Ai posteri l ardua sentenza
 Ai tempi che Berta filava
 Ai tempi di Carlo CodegaAlla sanfason
-, propriamente Alla sans façon (senza maniera, senza garbo)
+, propriamente Alla sans façon  senza maniera, senza garbo  
 Allevare una serpe in seno
 A lume di naso
 Alzare il gomito
@@ -224,39 +224,39 @@ A mal partito
 A man salva
 A muso duro
 A naso
-Anche l'occhio vuole la sua parte
+Anche l occhio vuole la sua parte
 Al dente
 Al di là del bene e del male
 Al di sopra di ogni sospetto
-Alla bell'e meglio
+Alla bell e meglio
 Alla buona
-Alla buon'ora
+Alla buon ora
 Alla bersagliera
 Alla carlona
 Alla chetichella
-All'acqua di rose
+All acqua di rose
 Alla fine della fiera
 Alla fine della giostra
 Alla garibaldina
 Alla grande
-Alla mano (essere)
-All'americana
-All'arma bianca
-All'impronta
+Alla mano  essere  
+All americana
+All arma bianca
+All impronta
 Alla romana
 Alla "viva il parroco"
 Alle brutte
 Alle perse
 Alle prime armi
 Al passo coi tempi
-Alti papaveri(LA)
+Alti papaveri LA  
 Ibi inambulans tacitus summa papauerum capita dicitur baculo decussisse
-	(IT)
+	 IT  
 Ivi camminando in silenzio si racconta che con un bastone tagliasse le alte teste dei papaveri
-(T.Livio, Ab Urbe condita, I,54)Altro che storie
+ T.Livio, Ab Urbe condita, I,54  Altro che storie
 Altro giro altra corsa
 Alzare i tacchi / Ritirarsi in buon ordine
-A memoria d'uomo
+A memoria d uomo
 Amico Ciliegia
 Amico del giaguaro
 Amico è Platone ma più amica è la verità
@@ -267,7 +267,7 @@ Anatra zoppa
 Anche le pulci hanno la tosse
 Ancora di salvezza
 Andare agli alberi pizzuti
-Andare a babboriveggoli (o babboriveggioli)
+Andare a babboriveggoli  o babboriveggioli  
 Andare a braccetto
 Andare a caccia di farfalle
 Andare a Canossa
@@ -275,7 +275,7 @@ Andare a dama
 Andare a dar del culo
 Andare / cascare a fagiolo
 Andare a farsi benedire
-Andare a gambe all'aria
+Andare a gambe all aria
 Andare a gonfie vele
 Andare a letto con le galline
 Andare alla ventura
@@ -302,8 +302,8 @@ Andare in brodo di giuggiole
 Andare in cavalleria
 Andare in rosso
 Andare in tilt
-Andare (finire) in vacca
-Andare (filare) liscio
+Andare  finire   in vacca
+Andare  filare   liscio
 Andare nel pallone
 / Andare in palla
 Andare per il sottile
@@ -326,7 +326,7 @@ A piè pari
 A piede libero
 A più non posso
 Appendere il cappello al chiodo
-Appendere (le scarpe) al chiodo
+Appendere  le scarpe   al chiodo
 Apprendista stregone
 Apriti, cielo!
 A quattro ganasce
@@ -347,10 +347,10 @@ Ascesa e caduta
 A scrocco
 Asilo Mariuccia
 Asino di Buridano
-Tuttavia non risulta da documenti storici che sia stato proprio Buridano l'autore di tale apologo.
+Tuttavia non risulta da documenti storici che sia stato proprio Buridano l autore di tale apologo.
 Aspetta e spera
 Aspettando Godot
-A spizzichi (o a smozzichi) e bocconi
+A spizzichi  o a smozzichi   e bocconi
 A spron battuto
 Assalto alla diligenza
 Asso nella manica
@@ -361,7 +361,7 @@ Attaccare bottone
 Attaccarsi al tram
 Attrazione fatale
 A tutta birra
-A tutto c'è rimedio meno che alla morte
+A tutto c è rimedio meno che alla morte
 A tutto gas
 A tutto spiano
 A ufo
@@ -380,7 +380,7 @@ Avere i numeri
 Avere il pelo sullo stomaco
 Avere la coda di paglia
 Avere la sindrome del genio incompreso
-Avere l'acquolina in bocca
+Avere l acquolina in bocca
 Avere le ali ai piedi
 Avere le braccine corte
 Avere le carte in regola
@@ -388,11 +388,11 @@ Avere le mani legate
 Avere le madonne
 Avere le pezze al culo
 Avere le polveri bagnate
-Non sfruttare a dovere una situazione favorevole. Deriva dall'impossibilità di utilizzo della polvere da sparo quando questa è bagnata.
+Non sfruttare a dovere una situazione favorevole. Deriva dall impossibilità di utilizzo della polvere da sparo quando questa è bagnata.
 Avere/sentire le farfalle nello stomaco
 Avere le mani bucate
 Avere qualche santo in ParadisoAvere sulla punta della lingua
-(Avere un) conto in sospeso
+ Avere un   conto in sospeso
 Avere un diavolo per capello
 Avere un groppo in gola
 Avere voce in capitolo
@@ -404,7 +404,7 @@ Banalità del male
 Bando alle cianceBarca
 Barca di soldi
 Bastian contrario
-(Essere il) Bastone della vecchiaia
+ Essere il   Bastone della vecchiaia
 Bastone tra le ruote
 Battere cassa
 Battere il ferro finché è caldo
@@ -414,20 +414,20 @@ Battere la Diana
 Battere la fiacca
 Batti e ribatti
 Bava di vento
-Bell'e buono
+Bell e buono
 Bello/a come il sole
-Bollare d'infamia
-(Essere in) Bolletta
+Bollare d infamia
+ Essere in   Bolletta
 Botta di vita
 Botta e risposta
 Botte da orbi
-Braccia rubate all'agricoltura
+Braccia rubate all agricoltura
 Braccino cortoBrancolare nel buio
 Bruciarsi i vascelli alle spalle
 Brutto anatroccolo
 Brutto come la fame
 Brutto come il peccato
-Buco nell'acqua
+Buco nell acqua
 Buco nero
 Buonanotte ai suonatori
 Buonanotte al secchio
@@ -437,8 +437,8 @@ Buttare a mare qualcosa, qualcuno
 Buttare i soldi dalla finestra
 Buttarla in caciara
 Buttarsi a pesceC
-C'è del marcio in Danimarca
-C'è un giudice a BerlinoCaccia al ladro / all'uomo
+C è del marcio in Danimarca
+C è un giudice a BerlinoCaccia al ladro / all uomo
 Caccia alle streghe
 Cacini
 Cadere a fagiolo
@@ -459,7 +459,7 @@ Stare in campana
 Candido come un giglio
 Cane bastonato
 Cane da pagliaio
-(Essere come) cane e gatto
+ Essere come   cane e gatto
 Cane non mangia cane
 Cane sciolto
 Aspettare a cantar vittoria
@@ -468,10 +468,10 @@ Capire Roma per toma
 prendere Roma per toma
 Capitale morale
 Capitare a tiro
-Capire l'antifona
+Capire l antifona
 Capro espiatorio
 Carità pelosaCarne da cannoneCarne della mia carne
-Carneade (Essere un)Avere carta bianca
+Carneade  Essere un  Avere carta bianca
 Carta canta
 Casa e chiesa
 Casalinga di Voghera
@@ -491,12 +491,12 @@ Cazzi acidi
 Ce ne passa di acqua sotto i ponti
 Cento di questi giorni
 Cercare con il lanternino
-Cercare il pelo nell'uovo
+Cercare il pelo nell uovo
 Cercare un ago nel pagliaio
 Che mangino brioche
 Che mi venisse un colpo
 Che vale un Perù
-Chi c'è c'è (e chi non c'è non c'è)
+Chi c è c è  e chi non c è non c è  
 Chi ha orecchie per intendere, intenda
 Chi la vuole allesso e chi arrosto / Chi la vuole cotta e chi la vuole cruda
 Chiagni e fotti
@@ -521,8 +521,8 @@ Come Noè con i dinosauri
 Come se piovesse
 Come volevasi dimostrare
 Compagni di merende
-Con beneficio d'inventario
-Con la coda dell'occhio
+Con beneficio d inventario
+Con la coda dell occhio
 Con la coda tra le gambe
 Con le pive nel sacco
 Con le unghie e con i denti
@@ -530,7 +530,7 @@ Con questi chiari di luna
 Con un palmo di naso
 Conciare per le feste / Conciare per il dì delle feste
 Conoscere i propri polli
-Consolarsi con l'aglietto
+Consolarsi con l aglietto
 Contare come il due di briscola / il due di picche / il due di coppe
 Contare fino a dieci
 Contento come una pasqua
@@ -538,14 +538,14 @@ Contento e cornuto
 Contrordine compagni
 Convergenze parallele
 Convitato di pietraCornuto e mazziato
-Correre l'alea
+Correre l alea
 Correre la cavallina
 Cortina di ferro
 Cosa fatta capo ha
 Cospargersi il capo di cenere
 Costruire sulla roccia / sulla sabbia
 Cotto e mangiato
-Crepi l'avarizia
+Crepi l avarizia
 Crocifisso in sala mensa
 Culo e camiciaD
 Da basto e da sella
@@ -553,11 +553,11 @@ Da capo a dodici
 Da che mondo è mondo
 Da Erode a Pilato
 Dai e dai
-Dall'alfa all'omega
+Dall alfa all omega
 Dalla padella alla brace
 Dalle piccole cose
 Dalle stelle alle stalle
-Dammi un cinqueDa quale pulpito (viene la predica)
+Dammi un cinqueDa quale pulpito  viene la predica  
 Darci dentro
 Dare adito a
 Dare alla testa
@@ -570,13 +570,13 @@ Dare filo da torcere
 Dare i numeri
 Dare il colpo di grazia
 Dare la croce addosso
-Dare l'imbeccata
+Dare l imbeccata
 Dare un colpo di telefono
 Dare una leccata
 Darla
 Darle di santa ragione
 Darsela a gambe
-Darsi all'ippica
+Darsi all ippica
 Darsi da fare
 Darsi delle arie
 Della Madonna
@@ -592,7 +592,7 @@ Di punto in bianco
 Dire pane al pane e vino al vino
 tra il serio e il faceto
 Distruggi famiglie
-Dirne (o farne) di tutti i coloriOcchio a tutto; e sopra tutto prudenza, in questa maledetta giornata. Abbiamo laggiù una mano di scapestrati che, tra il bere, e tra che di natura sono sboccati, ne dicon di tutti i colori. Basta, se qualche temerario...[123]
+Dirne  o farne   di tutti i coloriOcchio a tutto; e sopra tutto prudenza, in questa maledetta giornata. Abbiamo laggiù una mano di scapestrati che, tra il bere, e tra che di natura sono sboccati, ne dicon di tutti i colori. Basta, se qualche temerario...[123]
 Dirne quattro a qualcuno
 Doccia scozzese
 Domani è un altro giorno
@@ -617,38 +617,38 @@ Essere alla frutta
 Essere al lumicino
     collocare accanto al letto di morte un cero benedetto;
     controllare con un lume se il moribondo ancora respira facendo vacillare la fiamma;
-    essere in condizioni economiche di quasi fallimento[128]. Il modo di dire si origina dall'usanza della Compagnia dei Buounomini di San Martino a Firenze (1441) che quando aveva bisogno di nuovi fondi per soccorrere i poveri esponeva una lanterna alla porta della loro sede.
+    essere in condizioni economiche di quasi fallimento[128]. Il modo di dire si origina dall usanza della Compagnia dei Buounomini di San Martino a Firenze  1441   che quando aveva bisogno di nuovi fondi per soccorrere i poveri esponeva una lanterna alla porta della loro sede.
 Essere al verde
 Essere di bocca buona
 Essere di corvée
 Essere due anime in un nocciolo
 Essere duro da grattare
-Essere d'uopo
+Essere d uopo
 Essere in carattere
-Essere in tutt'altre faccende affacendato
-Essere l'anima della festa
+Essere in tutt altre faccende affacendato
+Essere l anima della festa
 Essere la ninfa Egeria
 Essere pane e cacio
-Essere ridotto all'ablativo
+Essere ridotto all ablativo
 Essere sempre nei rotti
-Essere sopra le parti (o super partes)
+Essere sopra le parti  o super partes  
 Essere sulla stessa barca
-Essere sull'orlo dell'abisso/del baratro
+Essere sull orlo dell abisso/del baratro
 Essere un acquaio
 Essere un asso
 Essere una buona lana
 / Essere un furbo di tre cotte
-Essere un pesce fuor d'acqua
+Essere un pesce fuor d acqua
 Essere un pezzo di pane
 Essere un pezzo di ghiaccio
 Essere un voltagabbana
 Spennare un pollo
 Età delle caverne
-Età dell'oro
+Età dell oro
 È tutto dire
 È un altro paio di manicheF
 Fabbrica di Santa Giustina
-Faccia di bronzoFacile come bere un bicchier d'acqua
+Faccia di bronzoFacile come bere un bicchier d acqua
 Factotum
 Familismo amorale
 Far accapponare la pelle
@@ -658,18 +658,18 @@ Far saltare la mosca al naso
 Farci una croce sopra
 Fare acqua da tutte le parti
 Fare alto e basso
-(Fare) a pari e patta
+ Fare   a pari e patta
 / Senza vincitori né vinti
 Fare buon viso a cattivo gioco
 Fare cascare le braccia
 Fare cilecca
 Fare come i capponi di Renzo
 Fare di necessità virtù
-Fare di tutta l'erba un fascio
+Fare di tutta l erba un fascio
 / Di ogni erba un fascio
 Fare faville
 Fare filotto
-Fare il boia e l'impiccato
+Fare il boia e l impiccato
 Fare il candelabro
 Fare il fenomeno
 Fare il pelo e il contropelo
@@ -677,18 +677,18 @@ Fare il portoghese
 Fare i salti mortali
 Fare la civetta
 Fare la mosca cocchiera
-Fare la pelle (a qualcuno)
+Fare la pelle  a qualcuno  
 Fare la ruota
 Fare la vita del beato porco
-Fare l'avvocato del diavolo
+Fare l avvocato del diavolo
 Fare la punta agli aghi
 Fare le corna a qualcuno
 Fare le nozze con i fichi secchi
 Fare le scarpe
-Fare (o Farne) le spese
+Fare  o Farne   le spese
 Fare a lingua in bocca
 Fare lo gnorri
-, fare il nesci, fare l'indiano
+, fare il nesci, fare l indiano
 Fare man bassa
 Fare mente locale
 Fare pelo e contropelo
@@ -700,12 +700,12 @@ Fare trenta: fare trentunoFare un baffo
 Fare un miglio in più
 Fare un quarantotto
 Farina del mio sacco
-(La) farina del diavolo va tutta in crusca
+ La   farina del diavolo va tutta in crusca
 Far fuori
 Farne quante Carlo in Francia
 Far ridere i polliFar saltare la mosca al naso
 Farla franca
-Farla pagare (cara)
+Farla pagare  cara  
 Farsela addosso
 Farsene una ragione
 Farsi bello con le penne del pavone
@@ -719,13 +719,13 @@ Far vedere i sorci verdi
 Far venire i nervi
 Far venire le cinque
 Fatti non foste a viver come bruti
-Fatto con l'accettaFenomeno da baraccone
-Figlio dell'oca bianca
-(E noi chi siamo, i) figli della serva (?)
+Fatto con l accettaFenomeno da baraccone
+Figlio dell oca bianca
+ E noi chi siamo, i   figli della serva  ?  
 Figlio di buona donna
 Figlio di N.N.Figlio di papà
 Figlio di un dio minore
-Figli(u)ol prodigoFilarsela all'inglese
+Figli u  ol prodigoFilarsela all inglese
 Finire sul lastrico
 Finire in braghe di tela
 Fischiare le orecchie
@@ -747,8 +747,8 @@ Furbetti del quartierino
 Grande futuro dietro le spalle
 Fu vera gloria?
 Far flanellaG
-Galeotto fu...Gambe che fanno Giacomo Giacomo (avere le)
-Gambe in spalla (mettersi le)
+Galeotto fu...Gambe che fanno Giacomo Giacomo  avere le  
+Gambe in spalla  mettersi le  
 Garantito al limone
 Gatta ci cova
 Gatta da pelare
@@ -762,9 +762,9 @@ Genio e sregolatezza
 Genio tutelare
 Gettare acqua sul fuocoGettare benzina sul fuoco
 Gettare fango su
-Gettare il bambino con l'acqua sporca
+Gettare il bambino con l acqua sporca
 Gettare la spugna
-Gigante (o colosso) dai piedi d'argilla
+Gigante  o colosso   dai piedi d argilla
 Giocare come il gatto col topo
 Giocarsi il ParadisoGiornata nera
 Girare il coltello nella piaga
@@ -775,22 +775,22 @@ La goccia perfora la pietra
 Grande fratelloGrande vecchio
 È grasso che cola
 Gridare la croce addosso / Bandire la croce addosso
-Grilli per la testaGuardare dall'alto in bassoH
-Hai voluto la bicicletta? (E adesso) pedala!
+Grilli per la testaGuardare dall alto in bassoH
+Hai voluto la bicicletta?  E adesso   pedala!
 Hai visto mai
 Homo faber fortunae suae
 Homo homini lupus
 Ho solo due maniI
-In calcio d'angolo
+In calcio d angolo
 Idem con patate
 Il che è tutto dire
 Il dado è tratto
 Il re è nudo
-(Mettere) il sale sulla codaIl troppo stroppia
+ Mettere   il sale sulla codaIl troppo stroppia
 / Il troppo storpia
 In alto i cuori
 In bocca al lupo
-(Navigare) in cattive acque
+ Navigare   in cattive acque
 In capo al mondo
 / In culo al mondo
 / In culo ai lupi
@@ -806,7 +806,7 @@ In gamba
 Ingannare il tempo
 Ingoiare il rospo
 In guerra come in guerra
-In quattro e quattr'otto
+In quattro e quattr otto
 Insegnare ai pesci a nuotare
 Inseguire una chimera
 In tempi non sospetti
@@ -822,31 +822,31 @@ Ira di Dio
 Isola feliceL
 La calunnia è un venticello
 Lacci e lacciuoli
-L'acqua alla gola
-L'acqua va al mare
+L acqua alla gola
+L acqua va al mare
 Lacrime di coccodrillo
 Lacrime e sangue
-(Un qualcosa che) la dice lunga (su)
-    (Un qualcosa che) rende piuttosto evidente un certo o il più vero aspetto (di), cosa ci sia da aspettarsi (da).
+ Un qualcosa che   la dice lunga  su  
+     Un qualcosa che   rende piuttosto evidente un certo o il più vero aspetto  di  , cosa ci sia da aspettarsi  da  .
 Ladri di Pisa
 La festa è finita
 / È finita la bella vita
-L'affare s'ingrossa
-L'altra faccia della medaglia
-L'altra metà del cielo
+L affare s ingrossa
+L altra faccia della medaglia
+L altra metà del cielo
 La luna nel pozzo
-L'amaro calice
-La matassa s'infittisce (s'ingarbuglia)
+L amaro calice
+La matassa s infittisce  s ingarbuglia  
 La meglio gioventù
-L'amico Fritz
+L amico Fritz
 La montagna ha partorito un topolino
 Lampo di genio
-(Prendere) la palla al balzo
-    (Cogliere) l'occasione che si offre, facilmente irripetibile.
-La sai l'ultima?
-/ Vuoi sentire l'ultima?
+ Prendere   la palla al balzo
+     Cogliere   l occasione che si offre, facilmente irripetibile.
+La sai l ultima?
+/ Vuoi sentire l ultima?
 Lasciar correre
-Lasciare l'amaro in bocca
+Lasciare l amaro in bocca
 La testa fra le nuvole
 Lato B
 Da far venire il latte alle ginocchia
@@ -856,9 +856,9 @@ Lavorare per il re di Prussia
 Da leccarsi i baffi
 Le chiacchiere stanno a zero
 Legarsela al dito
-Lei m'insegna
+Lei m insegna
 Legare il cane con la salsiccia
-Legare l'asino dove vuole il padrone
+Legare l asino dove vuole il padrone
 Lemme lemme
 Le parole sono pietre
 Lettera morta
@@ -871,15 +871,15 @@ Lieto fine
 Lingua biforcuta
 Lingua che taglia e cuce
 Lisciare il pelo
-L'isola che non c'è
-L'ora delle decisioni irrevocabili
+L isola che non c è
+L ora delle decisioni irrevocabili
 Lotta senza esclusione di colpi
 Lottare contro i mulini a vento
 Luce dei miei occhi
 Lunga mano
 Lungo come la Quaresima
 / Lungo come una Messa cantata
-Lungo come l'anno della fame
+Lungo come l anno della fame
 Lupus in fabulaM
 Ma anche no
 Ma fammi il piacere!
@@ -888,22 +888,22 @@ Madonnina infilzata
 Madre sempre certa
 Maggioranza bulgara
 Maggioranza silenziosa
-Indica quella parte, di solito maggioritaria, della popolazione che, pur essendo portatrice di una propria opinione politica, non la manifesta esplicitamente come fa una minoranza che la esprime apertamente. L'espressione italiana deriva dall'originale inglese silent majority usata per la prima volta dal Presidente degli Stati Uniti Richard Nixon (1913-1994) in un discorso del 3 novembre 1969 dove indicava come maggioranza silenziosa tutti quelli che non avevano partecipato alle dimostrazioni contro la guerra del Vietnam.
+Indica quella parte, di solito maggioritaria, della popolazione che, pur essendo portatrice di una propria opinione politica, non la manifesta esplicitamente come fa una minoranza che la esprime apertamente. L espressione italiana deriva dall originale inglese silent majority usata per la prima volta dal Presidente degli Stati Uniti Richard Nixon  1913-1994   in un discorso del 3 novembre 1969 dove indicava come maggioranza silenziosa tutti quelli che non avevano partecipato alle dimostrazioni contro la guerra del Vietnam.
 Mal comune mezzo gaudio
-Male di vivere(Essere) male in arnese
-/ (Essere) messo/preso male
-    (Essere) malmesso nel senso di malvestito, trasandato o d'aspetto poco sano, malconcio. Letteralmente: male equipaggiato o in non buone condizioni di salute.
+Male di vivere Essere   male in arnese
+/  Essere   messo/preso male
+     Essere   malmesso nel senso di malvestito, trasandato o d aspetto poco sano, malconcio. Letteralmente: male equipaggiato o in non buone condizioni di salute.
 Male oscuro
-(Di) Mamma ce n'è una sola
+ Di   Mamma ce n è una sola
 Mancare di parola
-(Gli) Manca (sempre) un soldo per fare una lira
+ Gli   Manca  sempre   un soldo per fare una lira
 Mandare allo sbaraglio
 Mandare a monte
 Mandare a quel paese
 Mandare a scopare il mare
-Mandare per il buco dell'acquaio
-Mandare (andare) a carte quarantotto
-Mandare all'aria
+Mandare per il buco dell acquaio
+Mandare  andare   a carte quarantotto
+Mandare all aria
 Mandare a catafascio
 Mandare al macello/massacro
 Mandare in malora
@@ -917,15 +917,15 @@ Mangiare la minestra o saltare la finestra
 Mangiare la polvere
 Mangiare nella stessa scodella
 Mangiare pane e veleno
-Mangiar l'aglio
+Mangiar l aglio
 Mangiarsi/mordersi le mani
 Mangiarsi vivo qualcuno
 Mani pulite
 Ma no!
 / Ma quando mai!
 / Ma che dici?
-/ Ma va'!
-/ (Ma/Vedi/Tu guarda/Guarda tu/Guarda te/Va) cosa mi tocca sentire!
+/ Ma va !
+/  Ma/Vedi/Tu guarda/Guarda tu/Guarda te/Va   cosa mi tocca sentire!
 Mantenere le distanze
 Manu militari
 Maramaldo, tu uccidi un uomo morto
@@ -937,13 +937,13 @@ Marinare la scuola
 Meditate gente meditate
 Meglio a te che a me
 Mela marcia
-Menare il can per l'aia
+Menare il can per l aia
 Menar le mani
 Me ne lavo le mani
 Mentire per la gola
 Mercato delle vacche
 Metterci del proprio
-Metterci il carico da undici/11Metterci la mano sul fuocoMetterci l'anima
+Metterci il carico da undici/11Metterci la mano sul fuocoMetterci l anima
 Metterci lo zampino
 Metterci una pietra sopra
 Metterci una pezza / una toppa
@@ -956,7 +956,7 @@ Mettere a segno
 Mettere al corrente
 Mettere al mondo
 Mettere al muro
-Mettere all'indice
+Mettere all indice
 Mettere alla berlina / alla gogna
 Mettere alla porta
 Mettere alla sbarra
@@ -969,10 +969,10 @@ Mettere gli occhi addosso
 Mettere i bastoni fra le ruote
 Mettere il carro davanti ai buoi
 Mettere il cappello su qualcosa
-Mettere il cuore oltre l'ostacolo
+Mettere il cuore oltre l ostacolo
 Mettere il dito nella piaga
 Mettere il muso / il broncio
-Mettere la pulce nell'orecchio
+Mettere la pulce nell orecchio
 Mettere le mani avanti
 Mettere nel sacco
 Mettere radici
@@ -1009,7 +1009,7 @@ Nessuno è profeta in patria
 Niente di nuovo sotto il sole
 Niente di nuovo sul fronte occidentale
 Nientepopodimeno che
-/ Niente po' po' di meno che
+/ Niente po  po  di meno che
 / Nientepopodimenoché
 Nodo di Gordio
 / Nodo gordiano
@@ -1021,10 +1021,10 @@ Non avere neanche il becco di un quattrino
 Non avere peli sulla lingua
 Non avere più gli occhi per piangere
 Non avere più nulla da perdere
-Non capirci un'acca/un tubo/un bel tubo di niente
-Non c'è storia
-Non ce n'è per nessuno
-Non c'è trippa per gatti
+Non capirci un acca/un tubo/un bel tubo di niente
+Non c è storia
+Non ce n è per nessuno
+Non c è trippa per gatti
 Non ci metto la scala
 Non ci sono più le mezze stagioni
 Non ci piove
@@ -1033,30 +1033,30 @@ Non fa una grinza!
 Non fare male a una mosca
 Non farsi mettere la saliva nel naso
 Non mandarle a dire
-Non l'ha ordinato il medico
+Non l ha ordinato il medico
 Non lo fo per piacer mio
 Non mi fa né caldo né freddo
-Non passare per l'anticamera del cervello
+Non passare per l anticamera del cervello
 Non poterne più
 Non ragioniam di lor, ma guarda e passa
 Non sanno quello che fanno
-    (Vedi Padre, perdona loro).
+     Vedi Padre, perdona loro  .
 Non sapere a che Santo votarsi
 Non sapere che pesci pigliare
 Non sapere dove sbattere la testa
 Non saper tenere neanche la piscia
 Non sparate al pianistaNon stare più nella pelle
 Non ti curar di lor, ma guarda e passa
-    (vedi #Non ragioniam di lor, ma guarda e passa).
-Non valere un tubo (un soldo bucato)
-Non valere un'acca
-Non vedere l'ora
+     vedi #Non ragioniam di lor, ma guarda e passa  .
+Non valere un tubo  un soldo bucato  
+Non valere un acca
+Non vedere l ora
 Non vedere neanche un prete nella neve
 Notte bianca o in bianco
 Notte dei cristalli
 Notte dei lunghi coltelli
-(Risolversi in un) nulla di fatto
-    (Giungere a una) conclusione senza un risultato significativo, né in positivo né in negativo.
+ Risolversi in un   nulla di fatto
+     Giungere a una   conclusione senza un risultato significativo, né in positivo né in negativo.
 Nùmerati le ossa che te disfo
 Nuovo di zeccaO
 Obbedisco
@@ -1066,9 +1066,9 @@ Occhio alla pennaOcchio alla penna! Avviso di por mente al pennello del mostrave
 Occhi da pesce lesso
 Occhio di triglia
 O così o Pomì
-Okay, panico(A / una volta) ogni morte di papa
+Okay, panico A / una volta   ogni morte di papa
 / di vescovo
-Onore al merito (a)
+Onore al merito  a  
 Oppio per i popoli
 Ora o mai più
 Ore piccoleOrecchie da mercante
@@ -1084,15 +1084,15 @@ Palazzo dei veleni
 Palla al centro
 Palla al piede
 Pallone gonfiato
-A pancia all'aria
+A pancia all aria
 Pane al pane e vino al vino
-Pane per i (miei) denti
+Pane per i  miei   denti
 Papale papale
 Pappa e ciccia
 Parco buoi
 Parigi val ben una messa
 Parla come mangi
-Parlar di corda in casa dell'impiccato
+Parlar di corda in casa dell impiccato
 Parlare a nuora perché suocera intenda
 Parlare alle spalle
 Parlare a vanvera
@@ -1114,36 +1114,36 @@ Pecora nera
 Pecorella smarrita
 Peggio che andar di notte
 Peggio di così si muore
-/ Non poteva andare peggio (di così)
+/ Non poteva andare peggio  di così  
 Pelare la gazza senza che strilli
-Pelle d'oca
+Pelle d oca
 Per filo e per segno
 Per me è pari anche tredici!
 Per partito preso
 Per sommi capi
 Per un pelo
-/ Per il rotto della cuffiaNell'armatura antica, parte della cotta di maglia indossata sotto l'elmo o la cervelliera. Copricapo di cuoio o pelle imbottita indossato sotto la celata. Uscire per il rotto della cuffia (fig.) cavarsela alla meglio, a malapena (prob. perché nelle giostre medievali i colpi assestati sulla cuffia erano ritenuti validi)[238].
+/ Per il rotto della cuffiaNell armatura antica, parte della cotta di maglia indossata sotto l elmo o la cervelliera. Copricapo di cuoio o pelle imbottita indossato sotto la celata. Uscire per il rotto della cuffia  fig.   cavarsela alla meglio, a malapena  prob. perché nelle giostre medievali i colpi assestati sulla cuffia erano ritenuti validi  [238].
 Per un pezzo di pane
 / Per un piatto di lenticchie
 Per un punto Martin perse la cappa
-Perdere il filo (del discorso)
-Perdere il ben dell'intelletto
-Perdere il trotto per l'ambiatura
-Perdersi in un bicchiere d'acqua
+Perdere il filo  del discorso  
+Perdere il ben dell intelletto
+Perdere il trotto per l ambiatura
+Perdersi in un bicchiere d acqua
 Perdere la bussola
 / Perdere la tramontana
 / Perdere la trebisonda
 / Perdere le staffe
-Per l'amor di Dio!
-Perle ai porci(LA)
+Per l amor di Dio!
+Perle ai porci LA  
 Nolite dare sanctum canibus neque mittatis margarítas vestras ante porcos, ne forte concúlcent eas pédibus sui et convérsi dirúmpamt vos.
-	(IT)
+	 IT  
 Non date le cose sante ai cani e non gettate le vostre perle davanti ai porci, perché non le calpestino con le loro zampe e poi si rivoltino contro di voi.
-(Biblia Sacra - Vulgatae Editionis, Edizioni San Paolo s.r.l., 2003, p. 998. ISBN 88-215-4658-6)Pescare nel torbido
+ Biblia Sacra - Vulgatae Editionis, Edizioni San Paolo s.r.l., 2003, p. 998. ISBN 88-215-4658-6  Pescare nel torbido
 Pesce in barile
 Pesce piccolo
 Pestare i piedi a
-Pestare l'acqua nel mortaio
+Pestare l acqua nel mortaio
 Pettinare le bambole
 Pezzo da novanta
 Pezzo di carta
@@ -1153,7 +1153,7 @@ Piangere come una fontana
 Piangere come una vite tagliata
 Piangere come un vitello
 Piangere il morto e fregare il vivo
-'Piangere sul latte versato
+ Piangere sul latte versato
 Piangersi addosso
 Piano B
 Piantare baracca e burattini
@@ -1161,41 +1161,41 @@ Piantare in asso
 Piazza pulita
 Piccolo grande
 Pieno come un uovo
-Pietra angolare / Pietra d'angolo
+Pietra angolare / Pietra d angolo
 Pietra dello scandalo
 Pietra miliare
 Pinco Pallino
 Piove, governo ladro!
 .
 Piove sul bagnato
-Pisciare fuori (dal vaso)
-Pipa di tabacco (costare/pagare una)
-    (Costare/pagare) pochissimo.
+Pisciare fuori  dal vaso  
+Pipa di tabacco  costare/pagare una  
+     Costare/pagare   pochissimo.
 Pollice verde
 Pomo della discordia
 Popolo bue
-Porgere l'altra guancia(LA)
+Porgere l altra guancia LA  
 Si quis te percusserit in dextera maxilla tua, praebe illi et alteram.
-	(IT)
-Se uno ti percuote la guancia destra, tu porgigli anche l'altra
-(Matteo, 4,39)
+	 IT  
+Se uno ti percuote la guancia destra, tu porgigli anche l altra
+ Matteo, 4,39  
 Por mente a
 / Fare caso a
 Porre sugli altari
 Portare acqua al mare
 Portare acqua al proprio mulino
-Portare l'acqua con le orecchie
+Portare l acqua con le orecchie
 Portare la propria croce
-Portare vasi a SamoPoveri in spirito(LA)
+Portare vasi a SamoPoveri in spirito LA  
 Beati pauperes spiritu, quoniam ipsorum est regnum caelorum
-	(IT)
+	 IT  
 Beati i poveri in spirito, perché è di essi il regno dei cieli
-(Vangelo di Matteo (5,3))Povero diavolo
+ Vangelo di Matteo  5,3    Povero diavolo
 Povero in cannaPozzo di San PatrizioPozzo di scienza
 Pozzo senza fondo
 Predicare bene e razzolare male
 Prendere cappelloPrendere con filosofia
-Prendere con le molle (o con le pinze)
+Prendere con le molle  o con le pinze  
 Prendere due piccioni con una fava
 Prendere il toro per le corna
 Prendere in giro
@@ -1207,9 +1207,9 @@ Prendere per la gola
 qualcuno
 Prendere una cantonata
 Presentarsi a Dio
-Presi per incantamento(Essere) preso con le bombe
-/ (Essere) messo/preso male
-    (Essere) malmesso nel senso di ammalato oppure di impegnatissimo, incalzato dalle scadenze.[251]
+Presi per incantamento Essere   preso con le bombe
+/  Essere   messo/preso male
+     Essere   malmesso nel senso di ammalato oppure di impegnatissimo, incalzato dalle scadenze.[251]
 Primula rossaPromesse da marinaioPulcino nella stoppa
 Punto sul vivo
 Puttana Eva!
@@ -1224,7 +1224,7 @@ Quando il gioco si fa duro i duri iniziano a giocare
 Quando piscia la gallina
 Quantità industriale
 Quarta parete
-Quarto d'ora di notorietà / celebrità
+Quarto d ora di notorietà / celebrità
 Quattro gatti
 Quello che ho scritto ho scritto
 Quel certo non so che
@@ -1232,7 +1232,7 @@ Questi sono i miei gioielli
 Questioni di lana caprina
 Questo è quanto
 Questo passa il convento
-Qui casca l'asino
+Qui casca l asino
 Qui lo dico e qui lo nego
 Quinta colonna
 Qui si parrà la tua nobilitate
@@ -1242,18 +1242,18 @@ Quote rosaR
 Raccogliere il guanto
 Radere al suolo
 Raddrizzare le gambe ai cani
-Sopra tutto poi, declamava contro que' suoi confratelli che, a loro rischio, prendevan le parti d'un debole oppresso, contro un soverchiatore potente. Questo chiamava un comprarsi gl'impicci a contanti, un voler raddrizzar le gambe ai cani.
-(Alessandro Manzoni, I promessi sposi, Cap. I, 357-360)
+Sopra tutto poi, declamava contro que  suoi confratelli che, a loro rischio, prendevan le parti d un debole oppresso, contro un soverchiatore potente. Questo chiamava un comprarsi gl impicci a contanti, un voler raddrizzar le gambe ai cani.
+ Alessandro Manzoni, I promessi sposi, Cap. I, 357-360  
 Ragazzi di vita
 Ragazzo/a della porta accanto
 Rapporto di sgamo
-Reggere il lume (il moccolo/la candela)
+Reggere il lume  il moccolo/la candela  
 Relata refero
-Rendere l'anima al creatore (a Dio)
+Rendere l anima al creatore  a Dio  
 Rendere pan per focaccia
 Repubblica delle banane
 Restare con il culo per terra
-Restare con un pugno di mosche (in mano)
+Restare con un pugno di mosche  in mano  
 Restare di sale
 / di sasso
 Restare in braghe di tela
@@ -1269,7 +1269,7 @@ Ridere sotto i baffi
 Ridi ridi che la mamma ha fatto gli gnocchi
 / i gnocchi
 Rigore è quando arbitro fischia
-Rimanere come don Falcuccio: con una mano davanti e un'altra dietro
+Rimanere come don Falcuccio: con una mano davanti e un altra dietro
 Rimanere con una scarpa e una ciabatta
 Rimanere scottati
 Rimandare a San Bindo
@@ -1278,7 +1278,7 @@ Rispondere a tono
 Rispondere per le rime
 Rispondere picche
 / Dare picche
-Ritirarsi sull'AventinoRoba da chiodi
+Ritirarsi sull AventinoRoba da chiodi
 Rodersi il fegato
 Roma ladrona
 Rompere i cosiddetti
@@ -1292,7 +1292,7 @@ Sabbia negli ingranaggi
 Sacco di patate
 Un sacco e una sporta
 Saccheggiare/svaligiare/rubare in chiesa
-(La) sai lunga ma non la sai raccontare
+ La   sai lunga ma non la sai raccontare
 Sale sale e non fa male
 Salire al colle
 Salotto buono
@@ -1303,7 +1303,7 @@ Salto della quaglia
 Salto nel buio
 Salvare capra e cavoli
 Salvare / salvarsi la faccia
-Salvarsi in calcio d'angolo / in corner
+Salvarsi in calcio d angolo / in corner
 Salvarsi per un pelo
 Salvezze illimitate
 Sangue blu
@@ -1320,11 +1320,11 @@ Scavarsi la fossa
 Scena muta
 Scendere in campo
 Schegge impazzite
-Scheletro nell'armadio
+Scheletro nell armadio
 Scherzare col fuoco
 Scherzo da prete
 Scienze delle merendine
-Scoprire gli altariniScoprire l'acqua calda
+Scoprire gli altariniScoprire l acqua calda
 Se Atene piange, Sparta non ride
 Segreto di Pulcinella
 Se il diavolo non ci mette la coda
@@ -1336,19 +1336,19 @@ Senti chi parla
 Sentire che aria tira
 Sentire puzza di bruciato
 Sentirsi uno straccio
-Senz'arte né parte
+Senz arte né parte
 Senza capo né coda
 Senza colpo ferire
 Senza dire né uno né due
-Senza infamia e senza lodecoloro / che visser sanza 'nfamia e sanza lodo
-(Divina Commedia, Inf., III 35-36)Senza se e senza ma
+Senza infamia e senza lodecoloro / che visser sanza  nfamia e sanza lodo
+ Divina Commedia, Inf., III 35-36  Senza se e senza ma
 Senza soluzione di continuità
 Sepolcri imbiancati
-Seppellire (dissotterrare) l'ascia di guerra
+Seppellire  dissotterrare   l ascia di guerra
 Sesso degli angeli
 Se tanto mi dà tanto
 Sette vite come i gatti
-Settimo cielo (essere al)
+Settimo cielo  essere al  
 Signor Nessuno
 Silenzio assordante
 Sindrome da foglio bianco
@@ -1360,37 +1360,37 @@ Smuovere le acque
 Smussare gli angoli
 Soccorso di Pisa
 Il povero vecchio, quantunque sentisse bene a che rischioso gioco giocava, e avesse anche paura di portare il soccorso di Pisa, pure non volle mancare: […]
-(Alessandro Manzoni, I Promessi Sposi, cap. VII, 348 – 350)
+ Alessandro Manzoni, I Promessi Sposi, cap. VII, 348 – 350  
 E quando la carrozza del Ferrer, dopo che questi era riuscito a fatica a strappare il povero vicario di provvisione alla folla inferocita, che, accusandolo di far mancare il pane ai milanesi, stava per entrargli in casa e di lì portarlo fuori e giustiziarlo, incontra un drappello di soldati spagnoli.
-Lì Ferrer, mentre cominciava a dare un po' di riposo a' suoi polmoni, vide il soccorso di Pisa, que' soldati spagnoli […]
-(Alessandro Manzoni, I Promessi Sposi, cap. XIII, 370-371)Sogni d'oro
+Lì Ferrer, mentre cominciava a dare un po  di riposo a  suoi polmoni, vide il soccorso di Pisa, que  soldati spagnoli […]
+ Alessandro Manzoni, I Promessi Sposi, cap. XIII, 370-371  Sogni d oro
 Soldi buttati dalla finestra
 Solo per i tuoi occhi
-Somigliarsi come due gocce d'acqua
+Somigliarsi come due gocce d acqua
 Sorci verdi
 Sorcio in bocca
 Sordo come una campana
 Sotto a chi tocca!
 Sottobanco
-Sotto l'egida
+Sotto l egida
 Sotto schiaffo
 Spaccare il capello in quattroSpada di DamocleSpalle al muro
-Spalle (braccia) rubate all'agricoltura
+Spalle  braccia   rubate all agricoltura
 Sparare nel mucchio
 Specchietto/specchio per le allodole
 Spennare un pollo
 Spettro che si aggiraSpezzare il cuore
 Spezzare le braccia
 Spezzare una lancia
-Spina nel fianco (essere una)
+Spina nel fianco  essere una  
 Spirito di patata
 Sporcarsi le mani
 Sputare il rospo
-Se n'è perduto lo stampo
+Se n è perduto lo stampo
 Stare con le mani in mano/mani in tasca
 Star fresco
 Stare al gioco
-Stare all'ancora
+Stare all ancora
 Stare alle mosse
 Stare da Papa
 Stare in campana
@@ -1404,25 +1404,25 @@ Stracciarsi le vesti
 Stragi del sabato sera
 Strani compagni di letto
 Strappo alla regola
-Stretta la foglia, larga la via (dite la vostra che io ho detto la mia)
+Stretta la foglia, larga la via  dite la vostra che io ho detto la mia  
 Stringere i denti
 Stringere la cinghia
-Strizzare l'occhio
+Strizzare l occhio
 Stupido è chi lo stupido fa
 Sudare sette camicieSul filo di lana
 Sulla faccia della terra
-Sull'unghia
+Sull unghia
 Sul tamburo
-Supplemento d'indagine
+Supplemento d indagine
 Supplizio di Tantalo
-Su (di) un piatto d'argento
+Su  di   un piatto d argento
 Suscitare un vespaio
 Svegliare il can che dormeT
 Tabula rasa
 Tagliare la corda
 Tagliare la testa al toro
 Tal dei tali
-Tallone di AchilleTant'è
+Tallone di AchilleTant è
 Tanto fumo e poco arrosto
 Tanto gentile e tanto onesta pare
 Tanto rumore per nulla
@@ -1431,7 +1431,7 @@ Tarpare le ali
 Tavola rotonda
 Te la canti e te la suoni
 Tela di Penelope
-Tempesta in un bicchiere d'acqua
+Tempesta in un bicchiere d acqua
 Tenere bordone
 Tenere il piede in due staffe
 Tenere il sacco
@@ -1449,20 +1449,20 @@ Tirare gli schiaffi
 Tirare il bidone/tirare il pacco
 Tirare il carretto
 Tirare i remi in barca
-Tirare l'acqua al proprio mulino
+Tirare l acqua al proprio mulino
 Tirare la cinghia
 Tirare le cuoia
 Tirare le orecchie
 Tirare per i capelliTirare per la giacchetta
-Tirarla dietro a qualcuno (una cosa)
+Tirarla dietro a qualcuno  una cosa  
 Tirarsi la zappa sui piedi
 Tirar tardi
 Tizio, Caio e Sempronio
 Toccare ferro
-Togliere le castagne dal fuoco (a qualcuno)Togliersi il dente
+Togliere le castagne dal fuoco  a qualcuno  Togliersi il dente
 Togliersi un sassolino dalla scarpa
 Tornare a bomba
-Tra l'incudine e il martello
+Tra l incudine e il martello
 Tra Scilla e Cariddi
 Trattare a pesci in faccia
 Trattare qualcuno come un pellaio
@@ -1473,13 +1473,13 @@ Trattare con i guanti
 Traversata del deserto
 Tre pigne e una tenaglia
 Trito e ritrito
-Troppa carne sul fuoco (mettere)
-Troppa grazia, sant'Antonio!
+Troppa carne sul fuoco  mettere  
+Troppa grazia, sant Antonio!
 Trovare pane per i propri denti
 Tu quoque
 Turarsi il naso
 Tutti i nodi vengono al pettine
-(Di) Tutto, di più
+ Di   Tutto, di più
 Tutto fa brodo
 Tutto sommato
 Tutto va bene, Madama la marchesa
@@ -1490,8 +1490,8 @@ Uccello di passo
 Ultima ruota del carro
 Ultimo grido
 Un bel giorno
-Un cazzoNon mi dir più che m'abbia cura, perché son guarito e sano come un pesce in grazia dell'aver fatto a modo mio, cioè non aver usato un cazzo di medicamenti.
-(Giacomo Leopardi, da Lettere al fratello Carlo, p. 43)
+Un cazzoNon mi dir più che m abbia cura, perché son guarito e sano come un pesce in grazia dell aver fatto a modo mio, cioè non aver usato un cazzo di medicamenti.
+ Giacomo Leopardi, da Lettere al fratello Carlo, p. 43  
 Un corno
 Un colpo al cerchio, uno alla botte
 Un gioco da ragazzi
@@ -1499,10 +1499,10 @@ Un piede nella fossa
 Un terno al lotto
 Una ne fa cento ne pensa
 Una parola è poca e due sono troppe/Una parola è troppa e due sono poche
-Unire l'utile al dilettevole
+Unire l utile al dilettevole
 Uomo della Provvidenza
 Uomo di paglia
-Uomo d'onore
+Uomo d onore
 Uomo giusto al posto giusto
 Uovo di Colombo
 Uscire allo scoperto
@@ -1514,10 +1514,10 @@ Vacche grasse e vacche magre
 .
 Varie ed eventuali
 Vaso di coccio tra i vasi di ferroVaso di Pandora
-Vecchia guardiaVecchio come il cucco / vecchio come il cucù / vecchio bacucco / vecchio come il primo topo (toscana)
+Vecchia guardiaVecchio come il cucco / vecchio come il cucù / vecchio bacucco / vecchio come il primo topo  toscana  
 Vecchio come il mondo
 Vedere il sole a scacchiVedere le stelle
-Vedo il meglio e l'approvo, ma seguo il peggio
+Vedo il meglio e l approvo, ma seguo il peggio
 Vendere cara la pelle
 Vendere la pelle dell’orso prima di averlo ucciso
 Venire al dunque
@@ -1529,14 +1529,14 @@ Viso pallido
 Vita natural durante
 Vitello grasso
 Vittoria di Pirro
-    ).
+      .
 Vivere alla giornata
 Volare una moscaVolare basso
 Volo pindaricoVuotare il saccoZ
 Zero zero carbonella
 Zitto e mosca
 Zoccolo duro
-Zona Cesarini (in)
+Zona Cesarini  in  
 Chi tempo ha e tempo aspetta, tempo perde.
 Chi ha tempo non aspetti tempo.
 Col tempo e con la paglia si maturan le sorbe.
@@ -1545,33 +1545,33 @@ Il tempo consuma ogni cosa.
 Rode il tempo ogni cosa e non si sente.
 Il tempo dà consiglio.
 Il tempo è denaro.
-Il tempo è come il denaro: non ne dissipate e ne avrete sempre d'avanzo.
+Il tempo è come il denaro: non ne dissipate e ne avrete sempre d avanzo.
 Il tempo mitiga ogni gran piaga.
 Il tempo suol far lieto ogni dolore
-Il tempo scorre incessantemente come l'acqua.
-Vassene il tempo e l'uom non se n'avvede.
+Il tempo scorre incessantemente come l acqua.
+Vassene il tempo e l uom non se n avvede.
 Il tempo scuopre ogni cosa.
 Ogni cosa ha il suo tempo.
 Le cose tutte quante han ordine tra loro.
 Ogni cosa si sa comportare eccetto che il buon tempo.
 Il buon tempo fa scavezzare il collo.
-Rosso di sera bel tempo si spera, rosso di mattina la pioggia s'avvicina.
+Rosso di sera bel tempo si spera, rosso di mattina la pioggia s avvicina.
 Sera rossa e nero mattino, rallegra il pellegrino.
 Il tempo perduto mai non si riacquista.
 Pensa che questo dì mai non raggiorna.
 Le ore non son legate ai bastoni.
 Il tempo passa e se ne porta il tutto.
 Non sono tutti uguali i giorni.
-Un giorno è madre, l'altro è matrigna.
+Un giorno è madre, l altro è matrigna.
 Del primo giorno scolare è il secondo.
 Non vè si lungo giorno che nol segua la notte.
 Ogni dì vien sera.
 Ogni giorno deve avere il suo compito.
 Nessun giorno sia da te vissuto inutilmente.
-Val più un buon giorno con uovo, che un mal'anno con un bue.
-Il tempo è un bene: che tanto n'ha il povero, quanto il ricco.
+Val più un buon giorno con uovo, che un mal anno con un bue.
+Il tempo è un bene: che tanto n ha il povero, quanto il ricco.
 Tempo e fantasia si varia spesso.
-Il gran tempo a' grandi nomi è gran veleno.
+Il gran tempo a  grandi nomi è gran veleno.
 Il tempo doma ogni cosa.
 Chi compra a tempo, vende nove per altri e un per sé.
 Dio non paga il sabato ma a otta e tempo.
@@ -1580,7 +1580,7 @@ Il buon marinaio si scuopre al cattivo tempo.
 A lasciar ci è sempre tempo.
 Il bel tempo non viene mai a noia.
 Al buon tempo ognun sa ire.
-Chi comincia a aver buon tempo, l'ha per tutta la vita.
+Chi comincia a aver buon tempo, l ha per tutta la vita.
 Arco da mattina empie la mulina; arco da sera tempo rasserena.
 La nebbia lascia il tempo che trova.
 Quando il tempo è dritto non vuol cantare il picchio.
@@ -1593,9 +1593,9 @@ Tempo rimesso di notte non val tre pere cotte.
 Facendo male, sperando bene, il tempo va, e la morte viene.
 Tempo, vento, signor, donna, fortuna voltano e tornan come fa la luna.
 Dai tempo al tempo.
-Niuno è savio d'ogni tempo.
+Niuno è savio d ogni tempo.
 Il tempo è buon testimone.
-Il tempo è padre della verità, e l'esperienza madre delle cose.
+Il tempo è padre della verità, e l esperienza madre delle cose.
 Bisogna darsi ai tempi.
 In tempo di poponi non prestare il coltello.
 Da cosa nasce cosa, e il tempo la governa.
