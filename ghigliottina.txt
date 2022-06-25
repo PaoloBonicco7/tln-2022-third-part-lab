@@ -133,7 +133,7 @@ Processo farsa
 Processo mediatico
 Quadratura del cerchio
 Questione bizantina
-Ragazzi del  99
+Ragazzi del  
 Regola del pollice
 Rendere pan per focaccia
 Riflusso nel privato
@@ -252,7 +252,7 @@ Al passo coi tempi
 Alti papaveri LA  
 Ibi inambulans tacitus summa papauerum capita dicitur baculo decussisse
 Ivi camminando in silenzio si racconta che con un bastone tagliasse le alte teste dei papaveri
- T Livio  Ab Urbe condita  I 54  Altro che storie
+ T Livio  Ab Urbe condita  I   Altro che storie
 Altro giro altra corsa
 Alzare i tacchi  Ritirarsi in buon ordine
 A memoria d uomo
@@ -591,7 +591,7 @@ Di punto in bianco
 Dire pane al pane e vino al vino
 tra il serio e il faceto
 Distruggi famiglie
-Dirne  o farne   di tutti i coloriOcchio a tutto; e sopra tutto prudenza  in questa maledetta giornata  Abbiamo laggiù una mano di scapestrati che  tra il bere  e tra che di natura sono sboccati  ne dicon di tutti i colori  Basta  se qualche temerario   [123]
+Dirne  o farne   di tutti i coloriOcchio a tutto; e sopra tutto prudenza  in questa maledetta giornata  Abbiamo laggiù una mano di scapestrati che  tra il bere  e tra che di natura sono sboccati  ne dicon di tutti i colori  Basta  se qualche temerario   []
 Dirne quattro a qualcuno
 Doccia scozzese
 Domani è un altro giorno
@@ -616,7 +616,7 @@ Essere alla frutta
 Essere al lumicino
     collocare accanto al letto di morte un cero benedetto;
     controllare con un lume se il moribondo ancora respira facendo vacillare la fiamma;
-    essere in condizioni economiche di quasi fallimento[128]  Il modo di dire si origina dall usanza della Compagnia dei Buounomini di San Martino a Firenze  1441   che quando aveva bisogno di nuovi fondi per soccorrere i poveri esponeva una lanterna alla porta della loro sede 
+    essere in condizioni economiche di quasi fallimento[]  Il modo di dire si origina dall usanza della Compagnia dei Buounomini di San Martino a Firenze     che quando aveva bisogno di nuovi fondi per soccorrere i poveri esponeva una lanterna alla porta della loro sede 
 Essere al verde
 Essere di bocca buona
 Essere di corvée
@@ -855,7 +855,7 @@ Lavorare per il re di Prussia
 Da leccarsi i baffi
 Le chiacchiere stanno a zero
 Legarsela al dito
-Lei m insegna
+Lei insegna
 Legare il cane con la salsiccia
 Legare l asino dove vuole il padrone
 Lemme lemme
@@ -887,7 +887,7 @@ Madonnina infilzata
 Madre sempre certa
 Maggioranza bulgara
 Maggioranza silenziosa
-Indica quella parte  di solito maggioritaria  della popolazione che  pur essendo portatrice di una propria opinione politica  non la manifesta esplicitamente come fa una minoranza che la esprime apertamente  L espressione italiana deriva dall originale inglese silent majority usata per la prima volta dal Presidente degli Stati Uniti Richard Nixon  1913-1994   in un discorso del 3 novembre 1969 dove indicava come maggioranza silenziosa tutti quelli che non avevano partecipato alle dimostrazioni contro la guerra del Vietnam 
+Indica quella parte  di solito maggioritaria  della popolazione che  pur essendo portatrice di una propria opinione politica  non la manifesta esplicitamente come fa una minoranza che la esprime apertamente  L espressione italiana deriva dall originale inglese silent majority usata per la prima volta dal Presidente degli Stati Uniti Richard Nixon     in un discorso del  novembre  dove indicava come maggioranza silenziosa tutti quelli che non avevano partecipato alle dimostrazioni contro la guerra del Vietnam 
 Mal comune mezzo gaudio
 Male di vivere Essere   male in arnese
   Essere   messopreso male
@@ -942,7 +942,7 @@ Me ne lavo le mani
 Mentire per la gola
 Mercato delle vacche
 Metterci del proprio
-Metterci il carico da undici11Metterci la mano sul fuocoMetterci l anima
+Metterci il carico da undiciMetterci la mano sul fuocoMetterci l anima
 Metterci lo zampino
 Metterci una pietra sopra
 Metterci una pezza  una toppa
@@ -1061,7 +1061,7 @@ Nuovo di zeccaO
 Obbedisco
 Obtorto collo
 Occhi foderati di prosciutto
-Occhio alla pennaOcchio alla penna! Avviso di por mente al pennello del mostravento per ben governarsi nella navigazione  sia reale  sia figurata[218] 
+Occhio alla pennaOcchio alla penna! Avviso di por mente al pennello del mostravento per ben governarsi nella navigazione  sia reale  sia figurata[] 
 Occhi da pesce lesso
 Occhio di triglia
 O così o Pomì
@@ -1078,7 +1078,7 @@ Pace cartaginese
 Paganini non ripete
 Paese di BengodiCuccagnaPaga Pantalone
 Pagare il fio
-Pagare lo scottoAlto fato di Dio sarebbe rotto  Se Letè si passasse e tal vivanda Fosse gustata sanza alcuno scotto di pentimento[226]
+Pagare lo scottoAlto fato di Dio sarebbe rotto  Se Letè si passasse e tal vivanda Fosse gustata sanza alcuno scotto di pentimento[]
 Palazzo dei veleni
 Palla al centro
 Palla al piede
@@ -1121,7 +1121,7 @@ Per me è pari anche tredici!
 Per partito preso
 Per sommi capi
 Per un pelo
- Per il rotto della cuffiaNell armatura antica  parte della cotta di maglia indossata sotto l elmo o la cervelliera  Copricapo di cuoio o pelle imbottita indossato sotto la celata  Uscire per il rotto della cuffia  fig    cavarsela alla meglio  a malapena  prob  perché nelle giostre medievali i colpi assestati sulla cuffia erano ritenuti validi  [238] 
+ Per il rotto della cuffiaNell armatura antica  parte della cotta di maglia indossata sotto l elmo o la cervelliera  Copricapo di cuoio o pelle imbottita indossato sotto la celata  Uscire per il rotto della cuffia  fig    cavarsela alla meglio  a malapena  prob  perché nelle giostre medievali i colpi assestati sulla cuffia erano ritenuti validi  [] 
 Per un pezzo di pane
  Per un piatto di lenticchie
 Per un punto Martin perse la cappa
@@ -1138,7 +1138,7 @@ Perle ai porci LA
 Nolite dare sanctum canibus neque mittatis margarítas vestras ante porcos  ne forte concúlcent eas pédibus sui et convérsi dirúmpamt vos 
 	 IT  
 Non date le cose sante ai cani e non gettate le vostre perle davanti ai porci  perché non le calpestino con le loro zampe e poi si rivoltino contro di voi 
- Biblia Sacra - Vulgatae Editionis  Edizioni San Paolo s r l   2003  p  998  ISBN 88-215-4658-6  Pescare nel torbido
+ Biblia Sacra  Vulgatae Editionis  Edizioni San Paolo s r l     p    ISBN   Pescare nel torbido
 Pesce in barile
 Pesce piccolo
 Pestare i piedi a
@@ -1177,7 +1177,7 @@ Porgere l altra guancia LA
 Si quis te percusserit in dextera maxilla tua  praebe illi et alteram 
 	 IT  
 Se uno ti percuote la guancia destra  tu porgigli anche l altra
- Matteo  4 39  
+ Matteo     
 Por mente a
  Fare caso a
 Porre sugli altari
@@ -1189,7 +1189,7 @@ Portare vasi a SamoPoveri in spirito LA
 Beati pauperes spiritu  quoniam ipsorum est regnum caelorum
 	 IT  
 Beati i poveri in spirito  perché è di essi il regno dei cieli
- Vangelo di Matteo  5 3    Povero diavolo
+ Vangelo di Matteo       Povero diavolo
 Povero in cannaPozzo di San PatrizioPozzo di scienza
 Pozzo senza fondo
 Predicare bene e razzolare male
@@ -1208,7 +1208,7 @@ Prendere una cantonata
 Presentarsi a Dio
 Presi per incantamento Essere   preso con le bombe
   Essere   messopreso male
-     Essere   malmesso nel senso di ammalato oppure di impegnatissimo  incalzato dalle scadenze [251]
+     Essere   malmesso nel senso di ammalato oppure di impegnatissimo  incalzato dalle scadenze []
 Primula rossaPromesse da marinaioPulcino nella stoppa
 Punto sul vivo
 Puttana Eva!
@@ -1242,7 +1242,7 @@ Raccogliere il guanto
 Radere al suolo
 Raddrizzare le gambe ai cani
 Sopra tutto poi  declamava contro que  suoi confratelli che  a loro rischio  prendevan le parti d un debole oppresso  contro un soverchiatore potente  Questo chiamava un comprarsi gl impicci a contanti  un voler raddrizzar le gambe ai cani 
- Alessandro Manzoni  I promessi sposi  Cap  I  357-360  
+ Alessandro Manzoni  I promessi sposi  Cap  I    
 Ragazzi di vita
 Ragazzoa della porta accanto
 Rapporto di sgamo
@@ -1340,7 +1340,7 @@ Senza capo né coda
 Senza colpo ferire
 Senza dire né uno né due
 Senza infamia e senza lodecoloro  che visser sanza  nfamia e sanza lodo
- Divina Commedia  Inf   III 35-36  Senza se e senza ma
+ Divina Commedia  Inf   III   Senza se e senza ma
 Senza soluzione di continuità
 Sepolcri imbiancati
 Seppellire  dissotterrare   l ascia di guerra
@@ -1359,10 +1359,10 @@ Smuovere le acque
 Smussare gli angoli
 Soccorso di Pisa
 Il povero vecchio  quantunque sentisse bene a che rischioso gioco giocava  e avesse anche paura di portare il soccorso di Pisa  pure non volle mancare: […]
- Alessandro Manzoni  I Promessi Sposi  cap  VII  348 – 350  
+ Alessandro Manzoni  I Promessi Sposi  cap  VII   –   
 E quando la carrozza del Ferrer  dopo che questi era riuscito a fatica a strappare il povero vicario di provvisione alla folla inferocita  che  accusandolo di far mancare il pane ai milanesi  stava per entrargli in casa e di lì portarlo fuori e giustiziarlo  incontra un drappello di soldati spagnoli 
 Lì Ferrer  mentre cominciava a dare un po  di riposo a  suoi polmoni  vide il soccorso di Pisa  que  soldati spagnoli […]
- Alessandro Manzoni  I Promessi Sposi  cap  XIII  370-371  Sogni d oro
+ Alessandro Manzoni  I Promessi Sposi  cap  XIII    Sogni d oro
 Soldi buttati dalla finestra
 Solo per i tuoi occhi
 Somigliarsi come due gocce d acqua
@@ -1489,8 +1489,8 @@ Uccello di passo
 Ultima ruota del carro
 Ultimo grido
 Un bel giorno
-Un cazzoNon mi dir più che m abbia cura  perché son guarito e sano come un pesce in grazia dell aver fatto a modo mio  cioè non aver usato un cazzo di medicamenti 
- Giacomo Leopardi  da Lettere al fratello Carlo  p  43  
+Un cazzoNon mi dir più che abbia cura  perché son guarito e sano come un pesce in grazia dell aver fatto a modo mio  cioè non aver usato un cazzo di medicamenti 
+ Giacomo Leopardi  da Lettere al fratello Carlo  p    
 Un corno
 Un colpo al cerchio  uno alla botte
 Un gioco da ragazzi
@@ -1605,9 +1605,9 @@ Non è più il tempo che Berta filava
 A buon cavallo non manca sella 
 A cavallo che non porta sella  biada non si crivella 
 A tempo di guerra ogni cavallo ha soldo 
-Alle tre si cuoce il pane (ovvero si corre il palio  o si dà il cavallo) 
+Alle tre si cuoce il pane ovvero si corre il palio  o si dà il cavallo 
 Buon cavallo e mal cavallo vuole sprone  e buona femina e mala femina vuol bastone 
-Campa (o aspetta)  cavallo  che l erba cresce 
+Campa o aspetta  cavallo  che l erba cresce 
 Cavallo da battaglia tienilo a orzo e paglia 
 Cavallo giovane porta soldati  cavallo vecchio porta concime 
 Cavallo non stare a morire che l erba ha da venire 
@@ -1644,3 +1644,109 @@ Quando il villano è a cavallo  non vorrebbe mai che si facesse sera
 Servire e non gradire  aspettare e non venire  stare a letto e non dormire  aver cavallo che non vuol ire e servitore che non vuole obbedire  esser in prigione e non poter fuggire  essere ammalato e non poter guarire  smarrir la strada quando un vuol ire  stare alla porta quando un non vuol aprire  avere un amico che ti vuol tradire  son dieci doglie da morire 
 Si batte la sella per non battere il cavallo 
 Una giovine in mano a un vecchio  un uccello in mano a un ragazzo  un cavallo in mano a un frate  son tre cose strapazzate 
+ramo del fiume
+nido fatto con il ramo
+ramo della famiglia
+lavagna bianca 
+lavagna nera
+Bollicine Vasco Rossi  
+La voce del padrone Franco Battiato  
+Una donna per amico Lucio Battisti  
+Crêuza de mä Fabrizio De André  
+Lorenzo  Jovanotti  
+Ovunque proteggi Vinicio Capossela  
+Siberia Diaframma  
+Linea Gotica Consorzio Suonatori Indipendenti  
+Arbeit macht frei Area  
+Adriano Celentano con Giulio Libano e la sua orchestra Adriano Celentano  
+Buon compleanno Elvis Luciano Ligabue  
+Affinitàdivergenze fra il compagno Togliatti e noi CCCP  Fedeli alla linea  
+I buoni e i cattivi Edoardo Bennato  
+Mio fratello è figlio unico Rino Gaetano  
+Elio Samaga Hukapan Kariyana Turu Elio e le Storie Tese  
+Microchip emozionale Subsonica  
+Nero a metà Pino Daniele  
+Stanze Massimo Volume  
+Wow Verdena  
+Rimmel Francesco De Gregori  
+La malavita Baustelle  
+Luigi Tenco Luigi Tenco  
+Socialismo tascabile Prove tecniche di trasmissione Offlaga Disco Pax  
+Traslocando Loredana Bertè  
+SxM Sangue Misto  
+Oro, incenso e birra Zucchero Fornaciari  
+Sugo Eugenio Finardi  
+Verità supposte Caparezza  
+Via Paolo Fabbri  Francesco Guccini  
+A sangue freddo Il Teatro degli Orrori  
+Dreamland Black Box  
+Confusa e felice Carmen Consoli  
+La testa indipendente Tre Allegri Ragazzi Morti  
+Sempre più vicini Casino Royale  
+Zerofobia Renato Zero  
+Sanacore Almamegretta  
+Un sabato italiano Sergio Caputo  
+Mentre tutto scorre Negramaro  
+La morte dei miracoli Frankie hinrg mc  
+Lucio Dalla Lucio Dalla  
+Non è per sempre Afterhours  
+Sick Soundtrack Gaznevada  
+Horror vacui Linea   
+Storia di un minuto Premiata Forneria Marconi  
+Suicidio Faust'O  
+Canzoni da spiaggia deturpata Le luci della centrale elettrica  
+Controcultura Fabri Fibra  
+Far finta di essere sani Giorgio Gaber  
+Curre curre guaglió  Posse  
+Panama e dintorni Ivano Fossati  
+Uomo di pezza Le Orme  
+Aria Alan Sorrenti  
+Hanno ucciso l'Uomo Ragno   
+Vai Rrouge! Enrico Ruggeri  
+A Berlino... va bene Garbo  
+Rock ' Skiantos, Windopen, Take Four Doses, Kaos Rock, X Rated, Kandeggina Gang, Dirty Actions  
+Tutto il resto è noia Franco Califano  
+Parsifal Pooh  
+Profondo rosso Goblin  
+Nessuno è solo Tiziano Ferro  
+Pigro Ivan Graziani  
+Rockmantico Alberto Camerini  
+A Race with the Devil Vanadium  
+Sirio  Il Balletto di Bronzo  
+Chinese Restaurant Krisma  
+Kinotto Skiantos  
+Ho visto anche degli zingari felici Claudio Lolli  
+Il vile Marlene Kuntz  
+Lo spirito continua Negazione  
+Concerti Paolo Conte  
+Latin Lover Gianna Nannini  
+Tango Matia Bazar  
+Patty Pravo Patty Pravo  
+Pipes & Flowers Elisa  
+Gianni Morandi Gianni Morandi  
+La voglia la pazzia l'incoscienza l'allegria Ornella Vanoni, Toquinho, Vinícius de Moraes  
+Reset Negrita  
+Maggese Cesare Cremonini  
+Alberto Fortis Alberto Fortis  
+Gino Paoli allo Studio A Gino Paoli  
+Mina Live ' Mina  
+Punk... Not Diet! Giardini di Mirò  
+La gatta Cenerentola Nuova Compagnia di Canto Popolare, Compagnia Il Cerchio, Roberto De Simone  
+Il tuffatore Flavio Giurato  
+Biglietto per l'Inferno Biglietto per l'Inferno  
+ re Litfiba  
+Pompa Squallor  
+In circolo Perturbazione  
+Le radici e le ali Gang  
+Io e te abbiamo perso la bussola Piero Ciampi  
+Gloria Umberto Tozzi  
+Darwin! Banco del Mutuo Soccorso  
+Metallo non metallo Bluvertigo  
+Carboni Luca Carboni  
+Andate tutti affanculo The Zen Circus  
+Un sole che brucia Africa Unite  
+Quelli che... Enzo Jannacci  
+Acido Acida Prozac+  
+Mectpyo Bakterium Maurizio Bianchi  
+Sotto il segno dei pesci Antonello Venditti  
+Vasco Da Gama
