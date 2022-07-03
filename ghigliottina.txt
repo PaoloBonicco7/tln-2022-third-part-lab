@@ -118,6 +118,7 @@ Pesce fuor d acqua
 Piantare baracca e burattini
 Piantare in asso
 Piedino 
+Pietro torna indietro
 Pietra miliare
 Pinco Pallino
 Piove sul bagnato
@@ -599,6 +600,8 @@ Dopo di noi [venga pure] il diluvio
 Due di picche
 Due pesi e due misure
 Due piedi in una scarpa  Due piedi in una staffa
+scarpa da ginnastica
+tacco è una parte della scarpa
 Durare come un gatto in tangenzialeE
 E compagnia bella
 E qua e là e su e giù
