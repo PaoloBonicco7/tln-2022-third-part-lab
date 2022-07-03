@@ -15,7 +15,7 @@ def get_text_from_file(path):
     f.close()
     return file
 
-text = get_text_from_file('../topics.txt')
+text = get_text_from_file('topics.txt')
 common_dictionary = Dictionary(text)
 common_corpus = [common_dictionary.doc2bow(line) for line in text]
 

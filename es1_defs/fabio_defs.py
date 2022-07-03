@@ -27,7 +27,7 @@ def lemmatize_words(text):
         result.append(lemmatizer.lemmatize(word))
     return result
 
-list = open("../def.csv").readlines()
+list = open("def.csv").readlines()
 data = []
 for l in list:
     data.append(l.strip("\n").split(","))
@@ -42,7 +42,7 @@ for l in data:
 
     first,second,third = counter_concept.most_common(3)
 
-    print(f"Parole più frequenti per {main_concept}: {counter_concept.most_common(3)}")
+    #print(f"Parole più frequenti per {main_concept}: {counter_concept.most_common(3)}")
 
     results = {first[0]:0, second[0]:0, third[0]:0}
     n_statement = 0
