@@ -1,4 +1,5 @@
 from nltk.tokenize import word_tokenize
+from string import punctuation
 from nltk.corpus import wordnet as wn
 from nltk.corpus import stopwords
 from collections import Counter
@@ -10,7 +11,7 @@ def word_sense_disambiguation(list_words, word):
 
 def remove_stop_words(row):
     stop_words = set(stopwords.words('english'))
-    punctuation = [',', '.', ';', '!', '?', "'", "''", '"', "’", "’’", "`","``"]
+    #punctuation = [',', '.', ';', '!', '?', "'", "''", '"', "’", "’’", "`","``"]
     filtered_sentence = [w for w in row if not w.lower() in stop_words and w not in punctuation]
     return filtered_sentence
 
@@ -34,5 +35,9 @@ with open ('def.csv', 'r') as f:
         for word in most_freq:
             print(f"- Word: {word} \n{wn.synsets(word[0])}")
         
+
+#! Dobbiamo scegliere il synset per ognuna delle parole più frequenti.
+#! Per ogni synset prendiamo tutti i figli e se ci sono sovrapposizioni, 
+#! quelle possono essere i synset del concetto che vogliamo descrivere (Person, Brick, ...)
         print(f"Le parole più utilizzate sono: {most_freq}\n\n")
         
