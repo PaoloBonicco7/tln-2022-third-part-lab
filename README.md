@@ -1,2 +1,3 @@
 # tln-2022-third-part-lab
-Exercises with NLP technology
+
+A series of exercises in which we experiment with NLP techniques
