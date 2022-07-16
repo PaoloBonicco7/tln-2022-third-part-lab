@@ -7,7 +7,8 @@ from nltk.corpus import wordnet as wn
 help_dict = {"fruit": ["apple", "cranberry"], 
              "animal": ["horse", "shark"]}
 
-#* Controllo se i nostri esempi di aiuto (help_dict[category]) appartengono agli iponomi del synset passato come parametro, se è così restituisco gli iponimi
+#* Controllo se i nostri esempi di aiuto (help_dict[category]) appartengono agli iponomi del 
+#* synset passato come parametro, se è così restituisco gli iponimi
 def check_hypo(synset, category):
     for example in help_dict[category]:
         if wn.synsets(example)[0] in synset.hyponyms():
