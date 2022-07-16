@@ -1,0 +1,14 @@
+// <Lattice object of 1 atoms 3 concepts 1 coatoms at 0x10c1135e0>
+digraph Lattice {
+	node [label="" shape=circle style=filled width=.25]
+	edge [dir=none labeldistance=1.5 minlen=2]
+	c0
+	c0 -> c0 [color=transparent labelangle=90 taillabel="hair feathers eggs milk airborne aquatic predator toothed backbone breathes venomous fins domestic"]
+	c1
+	c1 -> c1 [color=transparent headlabel="chicken " labelangle=270]
+	c1 -> c1 [color=transparent labelangle=90 taillabel=catsize]
+	c1 -> c0
+	c2
+	c2 -> c2 [color=transparent headlabel="deer     giraffe  leopard  lion     octopus  penguin  whale    snake   " labelangle=270]
+	c2 -> c1
+}
